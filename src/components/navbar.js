@@ -14,7 +14,7 @@ function Navbar() {
          <div class="mylearning">
          <p>My Learning</p>
           <div class="mylearning__popup">
-          <P>You did not purchase Anything Yet</P>
+          <p>You did not purchase Anything Yet</p>
           </div>
            </div>
             <i class="fa-solid fa-cart-shopping"></i>
